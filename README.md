@@ -14,11 +14,11 @@ Table name: UserTable
 Table design, 
 
 Column name,      Data type,       Allow nuls,
-ID               int             
-Name             nchar(50)
-Password         text
-RightA           int             active
-WrongA           int             active
+ID      ,         int     ,        
+Name    ,         nchar(50)
+Password ,        text
+RightA    ,       int    ,         active
+WrongA      ,     int      ,       active
 
-Identity Specification is active for ID
-Default value is 0 for Column: RightA and WrongA
+Identity Specification is active for ID....
+Default value is 0 for Column: RightA and WrongA...
