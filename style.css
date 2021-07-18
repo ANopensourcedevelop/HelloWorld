@@ -1,0 +1,100 @@
+﻿body {
+    background-color: lightskyblue;
+}
+
+#container {
+    background-color: whitesmoke;
+    margin: 0 auto;
+    width: 40%;
+    height: auto;
+    margin-top: 10%;
+}
+
+#container2 {
+    margin: 26%;
+    padding-bottom: 16%;
+}
+
+h2 {
+    color: skyblue;
+}
+
+
+
+#labelHeader {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#nav {
+    float: left;
+    width: 20%;
+    height: 70vh; /* only for demonstration, should be removed */
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-right: 2%;
+    overflow: auto;
+}
+
+    /* Style the list inside the menu */
+#nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+article {
+    float: left;
+    padding: 20px;
+    width: 70%;
+    background-color: whitesmoke;
+    height: 70vh; /* only for demonstration, should be removed */
+}
+
+section::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+footer {
+    text-align: center;
+}
+
+.listbox {
+    height: 102px ;
+    margin-left: 0px;
+    Width: 135px;
+}
+
+#answer1 {
+    padding: 2%;
+    text-align: center;
+    float: left;
+    width: 25%;
+    background-color: skyblue;
+    border: 2px solid red;
+    border-radius: 25px;
+}
+
+#answer2 {
+    padding: 2%;
+    text-align: center;
+    float: right;
+    width: 25%;
+    background-color: skyblue;
+    border: 2px solid red;
+    border-radius: 25px;
+}
+
+#status {
+    padding: 2%;
+    text-align: center;
+}
+
+#nextButton {
+    margin-top: 10%;
+    padding: 2%;
+    text-align: center;
+}
