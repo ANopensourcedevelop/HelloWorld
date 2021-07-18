@@ -8,12 +8,12 @@ The database of the project is in Microsoft sql server.
 Login name : sa, 
 password: 123456
 
-Database name: Todo
+Database name: Todo, 
 Table name: UserTable
 
-Table design
+Table design, 
 
-Column name      Data type       Allow nuls
+Column name,      Data type,       Allow nuls,
 ID               int             
 Name             nchar(50)
 Password         text
