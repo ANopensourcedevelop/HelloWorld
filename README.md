@@ -9,16 +9,13 @@ Login name : sa,
 password: 123456
 
 Database name: Todo, 
-Table name: UserTable
+Table name: UserTable,
 
 Table design, 
 
-Column name,      Data type,       Allow nuls,
-ID      ,         int     ,        
-Name    ,         nchar(50)
-Password ,        text
-RightA    ,       int    ,         active
-WrongA      ,     int      ,       active
+Column names: ID, Name, Password, RightA, WrongA.....
+Data types: int(ID), nchar(50)(Name), text(Password), int(RightA and WrongA).....
+Allow nuls active for RightA and WrongA.....
 
 Identity Specification is active for ID....
 Default value is 0 for Column: RightA and WrongA...
