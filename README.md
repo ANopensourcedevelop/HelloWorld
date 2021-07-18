@@ -22,4 +22,4 @@ Default value is 0 for Column: RightA and WrongA...
 
 20210718_182156.jpg
 
-![Alt text](relative/path/to/20210718_182156.jpg?raw=true "Title")
+![Alt text](20210718_182156.jpg?raw=true "Title")
