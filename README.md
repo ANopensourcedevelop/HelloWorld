@@ -20,6 +20,9 @@ Allow nuls active for RightA and WrongA.....
 Identity Specification is active for ID....
 Default value is 0 for Column: RightA and WrongA...
 
-20210718_182156.jpg
 
 ![Alt text](20210718_182156.jpg?raw=true "Title")
+
+![Alt text](20210718_182313.jpg?raw=true "Title")
+
+![Alt text](20210718_182401.jpg?raw=true "Title")
