@@ -5,7 +5,7 @@ This app is vulnerable to injection attacks, written purely for educational purp
 This app can be hacked in a simple way, I'm aware of that.
 
 The database of the project is in Microsoft sql server.
-Login name : sa
+Login name : sa, 
 password: 123456
 
 Database name: Todo
